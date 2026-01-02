@@ -23,13 +23,11 @@
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>SFMono-Bold - 12.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0 0 0 1</string>
+	<string>0.0941176 0.0941176 0.109804 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
 	<string>0.317647 0.356862 0.439215 1</string>
-	<key>DVTDebuggerInstructionPointerColor</key>
-	<string>0.12 0.31 0.34 1</string>
 	<key>DVTFontAndColorVersion</key>
 	<integer>1</integer>
 	<key>DVTLineSpacing</key>
@@ -148,6 +146,16 @@
 		<string>1 1 1 1</string>
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.992157 0.560784 0.247059 1</string>
+		<key>xcode.syntax.regex</key>
+		<string>0.988235 0.27451 0.317647 1</string>
+		<key>xcode.syntax.regex.capturename</key>
+		<string>0.335767 0.815927 0.701889 1</string>
+		<key>xcode.syntax.regex.charname</key>
+		<string>0.669967 0.392548 1 1</string>
+		<key>xcode.syntax.regex.number</key>
+		<string>1 0.905559 0.427799 1</string>
+		<key>xcode.syntax.regex.other</key>
+		<string>1 1 1 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.988235 0.27451 0.317647 1</string>
 		<key>xcode.syntax.url</key>
@@ -204,6 +212,16 @@
 		<key>xcode.syntax.plain</key>
 		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.preprocessor</key>
+		<string>SFMono-Medium - 12.0</string>
+		<key>xcode.syntax.regex</key>
+		<string>SFMono-Medium - 12.0</string>
+		<key>xcode.syntax.regex.capturename</key>
+		<string>SFMono-Medium - 12.0</string>
+		<key>xcode.syntax.regex.charname</key>
+		<string>SFMono-Medium - 12.0</string>
+		<key>xcode.syntax.regex.number</key>
+		<string>SFMono-Medium - 12.0</string>
+		<key>xcode.syntax.regex.other</key>
 		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.string</key>
 		<string>SFMono-Medium - 12.0</string>
